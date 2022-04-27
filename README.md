@@ -1,1 +1,3 @@
-# Goldchain
+# Goldchain is a distributed game ecological platform based on the blockchain technology framework. 
+With a decentralized structure, it directly links the components of the whole game ecological chain organically, realizing direct docking, lossless circulation and safe storage of individual value. 
+In the whole GOLDChain ecology, game developers and players around the world are able to convert the value they produce into their own income and circulate in the form of GOLD. As acarrier of value, GOLD can not only circulate in the ecosystem, but also leverage thelarger value ecology outside the game.
